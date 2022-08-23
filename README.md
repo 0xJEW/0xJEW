@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **C#/ CPP**
 
-- 👯 I’m looking to collaborate with [@SpArtOr](https://github.com/Mohammed512032)
+- 👯 I’m looking to collaborate with [@SpArtOr (R.I.P)](https://github.com/SpArtOr)
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xJEW?tab=repositories](https://github.com/0xJEW?tab=repositories)
 
